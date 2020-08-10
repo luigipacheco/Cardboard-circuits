@@ -1,8 +1,8 @@
 ---
-title: About Course in a Box
+title: getting started with your the Adafruit Circuit playground
 ---
 
-# Course in a Box
+## The Adafruit Circuit Playground
 
 Course in a Box consist of 
 
@@ -15,3 +15,7 @@ The rest of this module will step you through creating your course, adding the m
 
 ![Image of maze with starting point indicated]({{site.baseurl}}/img/start.jpg)
 Image [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/) by [mikecogh](https://www.flickr.com/photos/mikecogh/11300349426) on Flickr.
+
+## Makecode.com
+
+## Your first program
