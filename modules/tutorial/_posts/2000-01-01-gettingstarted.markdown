@@ -1,20 +1,9 @@
 ---
-title: getting started with your the Adafruit Circuit playground
+title: Getting Started with the Adafruit Circuit playground
+published: true
 ---
 
 ## The Adafruit Circuit Playground
-
-Course in a Box consist of 
-
- - a tutorial module to guide you through the technical steps for creating your course.
- - a resource module to help you design content, activities, community and feedback for your course.
- - a reference module with some explanation and detail about Course in a Box.
- - a community forum where you can ask questions or share your experience.
-
-The rest of this module will step you through creating your course, adding the modules you want to use and adding and updating content to sections.
-
-![Image of maze with starting point indicated]({{site.baseurl}}/img/start.jpg)
-Image [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/) by [mikecogh](https://www.flickr.com/photos/mikecogh/11300349426) on Flickr.
 
 ## Makecode.com
 
