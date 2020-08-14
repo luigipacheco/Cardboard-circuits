@@ -1,5 +1,5 @@
 ---
-title: Getting Started with the Adafruit Circuit playground
+title: Getting Started with the Circuit playground
 published: true
 ---
 
