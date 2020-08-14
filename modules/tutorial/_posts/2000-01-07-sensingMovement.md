@@ -1,5 +1,6 @@
 ---
-title: Interactive Objects
+title: Sensing Movement
+published: true
 ---
 
 # Coming Soon

@@ -1,5 +1,6 @@
 ---
-title: Interactive Objects
+title: Sensing the Environment
+published: true
 ---
 
 # Coming Soon
