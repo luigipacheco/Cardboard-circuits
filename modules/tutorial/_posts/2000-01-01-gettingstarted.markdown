@@ -13,7 +13,7 @@ The both share most of the same sensors the main difference being a faster proce
 
 ## Adafruit Circuit Playground Express
 
-![CPX(https://cdn-learn.adafruit.com/assets/assets/000/046/949/large1024/circuit_playground_cpx03.jpg?1507071350)
+![CPX](https://cdn-learn.adafruit.com/assets/assets/000/046/949/large1024/circuit_playground_cpx03.jpg?1507071350)
 
 ### Actuators
 - 10 x mini NeoPixels, each one can display any color
