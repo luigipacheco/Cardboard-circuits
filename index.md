@@ -3,16 +3,42 @@ layout: index
 published: true
 ---
 
-## Cardoard Circuits
+## Cardboard Circuits
 
 Cardboard Circuits is an open online course to learn electronics, robotics and programming. It is designed to minimize the amount of materials you need to start tinkering around with technology, allowing you to create amazing projects using cardboard, glue, tape and your imagination.
 
+## Course Philosophy
 
-## The brains for your projects
+- Learn by making
+
+- Learn from Failure
+
+- Learn by discovery
+
+- Project based learning
+
+- Learn to learn
+
+- Learn together
+
+## Learning Outcome
+
+Learn the fundamental principles of creativity and invention by iteration while:
+
+- Using recycled materials for prototyping ideas and building things
+
+- Understanding how things work
+
+- Using design thinking and planning your projects
+
+- Becoming proficient at self learning
+
+
+## The KIT
 
 We use Adafruit Circuit Playground Express or Bluefruit as the brains for your projects this amazing boards include some great features out of the box. You can order our prepackaged kit with all the components you'll need to get started from us.
 
-### The kit
+### Electronics
 
 - Adafruit Bluefruit / Adafruit Circuit Playground
 - Alligator Clips set of 12
@@ -50,29 +76,3 @@ Some household items that might become useful while developing your projects
 - Pen and pencil
 - Markers   
 - X-acto cutter or similar
-
-## Course Philosophy
-
-- Learn by making
-
-- Learn from Failure
-
-- Learn by discovery
-
-- Project based learning
-
-- Learn to learn
-
-- Learn together
-
-## Learning Outcome
-
-Learn the fundamental principles of creativity and invention by iteration while:
-
--Using recycled materials for prototyping ideas and building things
-
--Understanding how things work
-
--Using design thinking and planning your projects
-
--Becoming proficient at self learning
