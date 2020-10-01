@@ -49,6 +49,7 @@ The both share most of the same sensors the main difference being a faster proce
 Adafruit Circuit Playground Express primary guide can be followed [here](https://learn.adafruit.com/adafruit-circuit-playground-express)
 
 ## Adafruit Circuit Playground Bluefruit
+![Bluefruit](https://cdn-learn.adafruit.com/assets/assets/000/080/516/large1024/adafruit_products_CPB_Front.jpg?1567701679)
 
 ### Actuators
 - 10 x mini NeoPixels, each one can display any color

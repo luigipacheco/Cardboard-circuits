@@ -3,7 +3,7 @@ title: Desk Lamp
 published: true
 ---
 
-# Project 001 Desk Lamp
+# Project 01 Desk Lamp
 
 ## Overview
 Our first project will be do design a desk lamp that changes it's colors by using one of the the sensors and LED's in our Circuit Playground.
@@ -20,11 +20,11 @@ First lets frame some main ideas for our project
 
 Check this cool projects:
 
-[Rocket Lamp](https://learn.adafruit.com/cpx-rocket-lamp)
-[hacking an ikea lamp](https://learn.adafruit.com/hacking-ikea-lamps-with-circuit-playground-express)  
-[Dragon Lamp](https://learn.adafruit.com/dragon-lamp)
-[Adventure Time Lamp](https://learn.adafruit.com/adventure-time-coffee-cup-lamp)
-[Lego Lamp][https://learn.adafruit.com/lego-head-lamp-with-audio]
+- [Rocket Lamp](https://learn.adafruit.com/cpx-rocket-lamp)
+- [hacking an ikea lamp](https://learn.adafruit.com/hacking-ikea-lamps-with-circuit-playground-express)  
+- [Dragon Lamp](https://learn.adafruit.com/dragon-lamp)
+- [Adventure Time Lamp](https://learn.adafruit.com/adventure-time-coffee-cup-lamp)
+- [Lego Lamp][https://learn.adafruit.com/lego-head-lamp-with-audio]
 
 ## Activities
 
@@ -56,7 +56,8 @@ Think about an extra added value for your lamp:
   - What could I do to my lamp that solves someones problem?
 
 ## Further Learning
+
 - Research origami and unfolded shapes
 - Research transparent, translucent and diffuse materials.
 - Research 3D printing materials with translucent properties.
- 
+- Research Smart Lights and how they work.
