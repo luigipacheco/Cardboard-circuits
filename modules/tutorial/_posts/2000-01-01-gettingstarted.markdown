@@ -1,5 +1,5 @@
 ---
-title: Tutorial 01 Getting Started with Circuit Playground
+title: 01 Getting Started with Circuit Playground
 published: true
 ---
 # Getting Started with Circuit Playground

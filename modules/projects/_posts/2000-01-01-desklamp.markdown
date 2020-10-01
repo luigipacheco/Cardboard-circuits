@@ -16,6 +16,16 @@ First lets frame some main ideas for our project
 - What materials do I need to make my lamp.
 - What makes my lamp special or different
 
+## Inspiration
+
+Check this cool projects:
+
+[Rocket Lamp](https://learn.adafruit.com/cpx-rocket-lamp)
+[hacking an ikea lamp](https://learn.adafruit.com/hacking-ikea-lamps-with-circuit-playground-express)  
+[Dragon Lamp](https://learn.adafruit.com/dragon-lamp)
+[Adventure Time Lamp](https://learn.adafruit.com/adventure-time-coffee-cup-lamp)
+[Lego Lamp][https://learn.adafruit.com/lego-head-lamp-with-audio]
+
 ## Activities
 
 - Draw a sketch for your Lamp
@@ -26,9 +36,15 @@ First lets frame some main ideas for our project
 - Make changes in your code or/and your prototype
 - Repeat the last two steps as needed.
 
+## Reflect and share
 
-## Example projects
+ - What did I discovered by doing this project?
+ - What did I wish I new before this project?
+ - What was the most difficult part and how I overcame it?
+ - What do I love from this project?
+ - What do I want to improve in this project.
 
+ Take some pictures of your project and share it on a presentation or video, try to use as little text as possible and tell the story of how you got where you are with your project.
 
 ## Take your project to the next level
 
@@ -40,5 +56,7 @@ Think about an extra added value for your lamp:
   - What could I do to my lamp that solves someones problem?
 
 ## Further Learning
-- Research origame and unfolded shapes
+- Research origami and unfolded shapes
 - Research transparent, translucent and diffuse materials.
+- Research 3D printing materials with translucent properties.
+ 
