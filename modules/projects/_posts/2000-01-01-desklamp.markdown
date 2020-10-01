@@ -1,0 +1,44 @@
+---
+title: Desk Lamp
+published: true
+---
+
+# Project 001 Desk Lamp
+
+## Overview
+Our first project will be do design a desk lamp that changes it's colors by using one of the the sensors and LED's in our Circuit Playground.
+
+First lets frame some main ideas for our project
+
+- What is my lamp going to react to ( light, sound, movement, touch, buttons)
+- What colors do I want to use and what is the meaning of each "state" for my Lamp
+- What shape am I going to use
+- What materials do I need to make my lamp.
+- What makes my lamp special or different
+
+## Activities
+
+- Draw a sketch for your Lamp
+- Draw a flow diagram for your lamp's functionality
+- Program the circuit playground to react to the chosen input and test the output
+- Make a prototype for your lamp, test different materials, put all the parts together.
+- Test and observe
+- Make changes in your code or/and your prototype
+- Repeat the last two steps as needed.
+
+
+## Example projects
+
+
+## Take your project to the next level
+
+Think about an extra added value for your lamp:
+  - Think about making some Art with it
+  - Project cool shadows or silhouettes
+  - Make  it react to the user's "Mood"
+  - Control it with your phone with a bluefruit
+  - What could I do to my lamp that solves someones problem?
+
+## Further Learning
+- Research origame and unfolded shapes
+- Research transparent, translucent and diffuse materials.

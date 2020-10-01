@@ -1,8 +1,8 @@
 ---
-title: Tutorial 01: Getting Started with the Circuit playground
+title: Tutorial 01 Getting Started with Circuit Playground
 published: true
 ---
-
+# Getting Started with Circuit Playground
 
 ## Watch the video:
 
@@ -79,7 +79,7 @@ Adafruit Circuit Playground Express primary guide can be followed [here](https:/
 Adafruit Circuit Playground Bluefruit primary guide can be followed [here](https://learn.adafruit.com/adafruit-circuit-playground-bluefruit)
 
 
-## Program it with MakeCode
+## Program them with MakeCode
 
 MakeCode Adafruit Getting Started tutorial [here](https://learn.adafruit.com/makecode/)
 
@@ -87,6 +87,6 @@ MakeCode for Circuit Playground Express [here](https://makecode.adafruit.com/)
 
 MakeCode for Circuit Playground Bluefruit [here](https://maker.makecode.com/)
 
-## Program it with Circuit CircuitPython
+## Program them with Circuit CircuitPython
 
 Adafruit's CircuitPython Made Easy guide [here](https://learn.adafruit.com/circuitpython-made-easy-on-circuit-playground-express)
