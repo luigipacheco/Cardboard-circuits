@@ -24,7 +24,7 @@ Check this cool projects:
 - [hacking an ikea lamp](https://learn.adafruit.com/hacking-ikea-lamps-with-circuit-playground-express)  
 - [Dragon Lamp](https://learn.adafruit.com/dragon-lamp)
 - [Adventure Time Lamp](https://learn.adafruit.com/adventure-time-coffee-cup-lamp)
-- [Lego Lamp][https://learn.adafruit.com/lego-head-lamp-with-audio]
+- [Lego Lamp](https://learn.adafruit.com/lego-head-lamp-with-audio)
 
 ## Activities
 
