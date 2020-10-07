@@ -20,11 +20,14 @@ First lets frame some main ideas for our project
 
 Check this cool projects:
 
-- [Rocket Lamp](https://learn.adafruit.com/cpx-rocket-lamp)
-- [hacking an ikea lamp](https://learn.adafruit.com/hacking-ikea-lamps-with-circuit-playground-express)  
-- [Dragon Lamp](https://learn.adafruit.com/dragon-lamp)
-- [Adventure Time Lamp](https://learn.adafruit.com/adventure-time-coffee-cup-lamp)
-- [Lego Lamp](https://learn.adafruit.com/lego-head-lamp-with-audio)
+- [Lime Piano](https://learn.adafruit.com/circuit-playground-express-piano-in-the-key-of-lime)
+- [Fruit Drums](https://learn.adafruit.com/circuit-playground-fruit-drums )  
+- [Soundbox](https://learn.adafruit.com/circuitpython-sound-box)
+- [Wood MIDI](https://learn.adafruit.com/metal-inlay-capacitive-touch-buttons)
+- [Drum Machine](https://learn.adafruit.com/capacitive-touch-drum-machine)
+- [Polymath boxes](https://blog.arduino.cc/2016/08/04/experimental-sound-generating-boxes-for-makers-by-makers/)
+- [Laser harp](https://www.youtube.com/watch?v=_1oTBekbUT4&feature=youtu.be)
+- [Beat Box](https://learn.adafruit.com/circuitpython-fruitbox-sequencer-musically-delicious-step-pattern-generator)
 
 ## Activities
 
@@ -50,15 +53,15 @@ Check this cool projects:
 ## Take your project to the next level
 
 Think about an extra added value for your lamp:
-  - Think about making some Art with it
-  - Project cool shadows or silhouettes
-  - Make  it react to the user's "Mood"
-  - If you have a Bluefruit try to control it with your phone with Bluetooth
-  - What could I do to my lamp that solves someones problem?
+  - Can you drive sounds on your computer with your Adafruit Circuit Playground?
+  - What about adding speakers?
+  - What other sensors can I use to drive sound?
+  - Developing a music instrument for someone with a disability.
 
 ## Further Learning
 
-- Research origami and unfolded shapes
-- Research transparent, translucent and diffuse materials.
-- Research 3D printing materials with translucent properties.
-- Research Smart Lights and how they work.
+- [Make your own song](https://learn.adafruit.com/make-it-sound/overview) on your Circuit Playground.
+- Research [MIDI](https://learn.adafruit.com/collins-lab-midi) Controllers
+- Research sound waves and amplifiers.
+- Research 8-bit and chiptune music.
+- [Procedural Music for games](http://www.procjam.com/tutorials/en/music/)
