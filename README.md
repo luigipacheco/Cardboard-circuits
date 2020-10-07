@@ -1,10 +1,17 @@
-# Everything you need to create an online course in a box
+MakerCademy
+Invent with cardboard
 
+Author
+MakerCademy is developed by Luis Pacheco it uses a web template from : Jekyll Course template from P2PU.
 
-## How do I get started?
+Contributing
+Please read for details on our code of conduct, and the process for submitting pull requests to us.
 
-Head on over to [howto.p2pu.org](http://howto.p2pu.org). Everything you need to know is over there and once you are done we'll be waiting for you here!
- 
----
+Authors
+Luis Pacheco - Curricular design and author
+See also the list of contributors who participated in this project.
 
-This course was created using the [Jekyll Course template from P2PU](http://github.com/p2pu/jekyll-course-template).
+License
+This project is licensed under the CC-BY-NC-SA International 4.0 License - see the LICENSE.md file for details
+
+Acknowledgments
