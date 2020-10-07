@@ -1,17 +1,16 @@
-# MakerCademy
+# Cardboard Circuits
 
 Invent with cardboard
 
 ## Author
 
-MakerCademy is developed by Luis Pacheco it uses a web template from :
+CardboardCircuits is developed by Luis Pacheco it uses a web template from :
 [Jekyll Course template from P2PU](http://github.com/p2pu/jekyll-course-template).
 
 
 ## Contributing
 
 Please read  for details on our code of conduct, and the process for submitting pull requests to us.
-
 
 
 ## Authors
