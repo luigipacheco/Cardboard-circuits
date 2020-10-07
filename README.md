@@ -17,7 +17,7 @@ Please read  for details on our code of conduct, and the process for submitting 
 
 * **Luis Pacheco** - *Curricular design and author*
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/luigipacheco/cardboard-circuits/graphs/contributors) who participated in this project.
 
 ## License
 
