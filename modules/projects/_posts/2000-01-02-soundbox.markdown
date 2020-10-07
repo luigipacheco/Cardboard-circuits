@@ -1,20 +1,20 @@
 ---
-title: Desk Lamp
+title: Sound Machine
 published: true
 ---
 
-# Project 01 Desk Lamp
+# Project 02 Sound Machine
 
 ## Overview
-Our first project will be do design a desk lamp that changes it's colors by using one of the the sensors and LED's in our Circuit Playground.
+Our second project will be do design sound machine that makes noise, tones, music, etc. By touching things (capacitance).
 
 First lets frame some main ideas for our project
 
-- What is my lamp going to react to ( light, sound, movement, touch, buttons)
-- What colors do I want to use and what is the meaning of each "state" for my Lamp
-- What shape am I going to use
-- What materials do I need to make my lamp.
-- What makes my lamp special or different
+- What type of machine I want to make? (check inspiration projects)
+- What is [capacitance](https://www.khanacademy.org/science/physics/circuits-topic/circuits-with-capacitors/v/capacitors-and-capacitance), and what objects or materials can I use for this?
+- What shape or instrument do I want to make?
+- What materials do I need to make my sound machine?
+- What makes my sound machine special or different?
 
 ## Inspiration
 
@@ -28,13 +28,14 @@ Check this cool projects:
 
 ## Activities
 
-- Draw a sketch for your Lamp
-- Draw a flow diagram for your lamp's functionality
-- Program the circuit playground to react to the chosen input and test the output
-- Make a prototype for your lamp, test different materials, put all the parts together.
+- Draw a sketch for your Sound Machine
+- Draw a flow diagram for your Sound Machine's functionality
+- Program the circuit playground to react make sounds according to the capacitive inputs.
+- Make a prototype for your Sound Machine, test different materials, put all the parts together.
 - Test and observe
 - Make changes in your code or/and your prototype
 - Repeat the last two steps as needed.
+- Try to play a song with your new Instrument.
 
 ## Reflect and share
 
