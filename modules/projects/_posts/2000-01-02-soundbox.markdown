@@ -5,6 +5,8 @@ published: true
 
 # Project 02 Sound Machine
 
+<iframe width="1220" height="686" src="https://www.youtube.com/embed/zLD_77xkrW4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Overview
 Our second project will be do design sound machine that makes noise, tones, music, etc. By touching things (capacitance).
 
@@ -52,11 +54,11 @@ Check this cool projects:
 
 ## Take your project to the next level
 
-Think about an extra added value for your lamp:
+Think about an extra added value for your sound machine:
   - Can you drive sounds on your computer with your Adafruit Circuit Playground?
   - What about adding speakers?
   - What other sensors can I use to drive sound?
-  - Developing a music instrument for someone with a disability.
+  - Develop a music instrument for someone with a disability.
 
 ## Further Learning
 
@@ -65,3 +67,4 @@ Think about an extra added value for your lamp:
 - Research sound waves and amplifiers.
 - Research 8-bit and chiptune music.
 - [Procedural Music for games](http://www.procjam.com/tutorials/en/music/)
+- [Try Sonic Pi](https://sonic-pi.net/)
