@@ -71,3 +71,4 @@ Think about an extra added value for your sound machine:
 
 ## Helpfull Links
  - [Using the capacitive sensors](https://learn.adafruit.com/make-it-sense/makecode-6)
+ - [Example code](https://makecode.com/_KKgXH97a5UYg)
