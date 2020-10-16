@@ -30,6 +30,7 @@ Check this cool projects:
 - [Polymath boxes](https://blog.arduino.cc/2016/08/04/experimental-sound-generating-boxes-for-makers-by-makers/)
 - [Laser harp](https://www.youtube.com/watch?v=_1oTBekbUT4&feature=youtu.be)
 - [Beat Box](https://learn.adafruit.com/circuitpython-fruitbox-sequencer-musically-delicious-step-pattern-generator)
+- [Drum Machine](https://learn.adafruit.com/adafruit-circuit-playground-express/playground-drum-machine)
 
 ## Activities
 
@@ -74,4 +75,4 @@ Think about an extra added value for your sound machine:
  - [Calibrating the capacitive sensors](https://makecode.adafruit.com/learnsystem/pins-tutorial/touch-input/calibrate-sensitivity)
  - [Example code](https://makecode.com/_KKgXH97a5UYg)
  - [instructables challenge](https://www.instructables.com/contest/audio2020/)
- - [record your own samples] (https://www.youtube.com/watch?v=vs92BVVL6V4)
+ - [record your own samples](https://www.youtube.com/watch?v=vs92BVVL6V4)
