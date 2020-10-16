@@ -73,3 +73,5 @@ Think about an extra added value for your sound machine:
  - [Using the capacitive sensors](https://learn.adafruit.com/make-it-sense/makecode-6)
  - [Calibrating the capacitive sensors](https://makecode.adafruit.com/learnsystem/pins-tutorial/touch-input/calibrate-sensitivity)
  - [Example code](https://makecode.com/_KKgXH97a5UYg)
+ - [instructables challenge](https://www.instructables.com/contest/audio2020/)
+ - [record your own samples] (https://www.youtube.com/watch?v=vs92BVVL6V4)
