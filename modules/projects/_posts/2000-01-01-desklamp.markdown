@@ -61,3 +61,5 @@ Think about an extra added value for your lamp:
 - Research transparent, translucent and diffuse materials.
 - Research 3D printing materials with translucent properties.
 - Research Smart Lights and how they work.
+
+## Helpful links
