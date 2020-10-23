@@ -54,7 +54,7 @@ Check this cool projects:
 Think about an extra added value for your wearable:
   - What can you sense with your circuit playground that you cannot sense with your own senses?
   - Can you control a computer from your circuit playground sensors?
-  - Think about making a computer human interface device. 
+  - Think about making a computer human interface device.
 
 ## Further Learning
 
@@ -63,3 +63,5 @@ Think about an extra added value for your wearable:
 
 ## Helpful Links
 - [Circuit Playground Express computer mouse](https://learn.adafruit.com/make-it-a-mouse)
+- [Example code](https://makecode.com/_eWKUdcWsT5i0)
+- [Example code 2](https://makecode.com/_XfT7cJKhjimg)
