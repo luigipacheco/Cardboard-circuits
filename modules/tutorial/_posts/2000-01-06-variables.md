@@ -1,9 +1,9 @@
 ---
-title: Interactive Objects
+title: 06 Variables in Make Code
 published: true
 ---
 
-# Conditional statements and digital inputs
+# Variables in make Code
 
 ## Watch the video:
 

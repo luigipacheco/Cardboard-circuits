@@ -1,5 +1,5 @@
 ---
-title: Conditional statements in Make Code
+title: 05 Conditional statements in Make Code
 published: true
 ---
 # Conditional statements and digital inputs
