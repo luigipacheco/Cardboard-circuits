@@ -54,7 +54,7 @@ Check this cool projects:
 Think about an extra added value for your wearable:
   - What can you sense with your circuit playground that you cannot sense with your own senses?
   - Can you control a computer from your circuit playground sensors?
-  - Develop a music instrument for someone with a disability.
+  - Think about making a computer human interface device. 
 
 ## Further Learning
 
