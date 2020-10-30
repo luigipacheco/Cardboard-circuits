@@ -72,7 +72,8 @@ First lets frame some main ideas for our project
 
 
 ## Further Learning
-
+- [Make it move with crickit](https://learn.adafruit.com/make-it-move-with-crickit)
+- [Types of motors](https://learn.adafruit.com/adafruit-motor-selection-guide)
 
 ## Helpful Links
--[Make it move with crickit](https://learn.adafruit.com/make-it-move-with-crickit)
+- [Example code](https://makecode.com/_J0veh8RoaCrU)
