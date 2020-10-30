@@ -41,6 +41,7 @@ First lets frame some main ideas for our project
 - [Animatronic eye](https://learn.adafruit.com/crickit-controlled-animatronic-eyeball)
 - [Mini golf course](https://learn.adafruit.com/mini-golf-course-with-makecode-circuit-playground-crickit)
 - [Snake cardboard box](https://learn.adafruit.com/cardboard-box-for-circuit-playground-express)
+- [Pet feeder](https://learn.adafruit.com/automatic-cat-treat-dispenser/overview)
 
 
 ## Activities
