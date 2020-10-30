@@ -5,20 +5,52 @@ published: true
 
 # Project 04 Automata
 
-<iframe width="715" height="402" src="https://www.youtube.com/embed/QJ8ITURT0NU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="961" height="721" src="https://www.youtube.com/embed/Z86V_ICUCD4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Overview
 Our fourth project will be do design something that moves.
 
 First lets frame some main ideas for our project
 
-- What makes my sound machine special or different?
+- Your project should use at least one servomotor
+- Your project can act directly on an object or it could drive some gears/pulleys
+- Does your project moves as a whole (eg. car), or is it a mechanism (eg. clock)
+- Determine the purpose of your project.
+    - Does it point at something?
+    - Does it move/tap/touch something?
+    - Does it open/close something?
+    - Can you play with it?
+
 
 ## Inspiration
 - [Robotic creatures](https://learn.adafruit.com/robotic-creatures)
+- [Unicycle Bot](https://learn.adafruit.com/tightrope-unicycle-bot)
+- [Collapsible paper house](https://learn.adafruit.com/collapsible-house)
+- [Cardboard garage door](https://learn.adafruit.com/pushrod-garage)
+- [Cardboard Safebox with dial](https://learn.adafruit.com/combo-dial-safe-with-circuit-playground-express)
+- [Slider crank](https://learn.adafruit.com/cardboard-slider-crank)
+- [Spooky Box](https://learn.adafruit.com/spooky-circuit-playground-express-mystery-box)
+- [Wobbly bot](https://learn.adafruit.com/crickit-wobblybot)
+- [Dancing Marionette](https://learn.adafruit.com/universal-marionette-with-crickit)
+- [Inchworm Robot](https://learn.adafruit.com/Cardboard-Robot-Inchworm)
+- [Ping Pong ball launcher](https://learn.adafruit.com/ping-pong-ball-launcher-with-cpx)
+- [Paper Plane launcher](https://learn.adafruit.com/paper-airplane-launcher-with-CRICKIT)
+- [Buttermilk boat](https://learn.adafruit.com/Boat-with-Circuit-Playground-Express)
+- [Lucky Cat](https://learn.adafruit.com/lucky-cat-with-circuit-playground-express)
+- [Crawling Animatronic Hand](https://learn.adafruit.com/crawling-hand-with-CPX-and-MakeCode/overview)
+- [Animatronic eye](https://learn.adafruit.com/crickit-controlled-animatronic-eyeball)
+- [Mini golf course](https://learn.adafruit.com/mini-golf-course-with-makecode-circuit-playground-crickit)
+- [Snake cardboard box](https://learn.adafruit.com/cardboard-box-for-circuit-playground-express)
 
 
 ## Activities
+- Draw a sketch for your project
+- Draw a flow diagram for your projects functionality
+- Program the circuit playground to your projects inputs and outputs
+- Make a prototype for your project, test different materials, put all the parts together.
+- Test and observe
+- Make changes in your code or/and your prototype
+- Repeat the last two steps as needed.
 
 
 ## Reflect and share
@@ -33,8 +65,14 @@ First lets frame some main ideas for our project
 
 ## Take your project to the next level
 
+- [Check different types of motors](https://learn.adafruit.com/adafruit-motor-selection-guide)
+- [Use the Adafruit Crickit for your circuit Playground to drive more motors](https://learn.adafruit.com/adafruit-crickit-creative-robotic-interactive-construction-kit)
+- [Hacking a servo for continuous rotation](https://learn.adafruit.com/modifying-servos-for-continuous-rotation)
+
+
 
 ## Further Learning
 
 
 ## Helpful Links
+-[Make it move with crickit](https://learn.adafruit.com/make-it-move-with-crickit)
