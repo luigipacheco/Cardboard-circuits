@@ -27,7 +27,7 @@ First lets frame some main ideas for our project
 - [Unicycle Bot](https://learn.adafruit.com/tightrope-unicycle-bot)
 - [Collapsible paper house](https://learn.adafruit.com/collapsible-house)
 - [Cardboard garage door](https://learn.adafruit.com/pushrod-garage)
-- [Cardboard Safebox with dial](https://learn.adafruit.com/combo-dial-safe-with-circuit-playground-express)
+- [Cardboard Safe box with dial](https://learn.adafruit.com/combo-dial-safe-with-circuit-playground-express)
 - [Slider crank](https://learn.adafruit.com/cardboard-slider-crank)
 - [Spooky Box](https://learn.adafruit.com/spooky-circuit-playground-express-mystery-box)
 - [Wobbly bot](https://learn.adafruit.com/crickit-wobblybot)

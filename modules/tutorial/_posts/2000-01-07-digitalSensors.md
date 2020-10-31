@@ -1,5 +1,5 @@
 ---
-title: Sensing the Environment
+title: Digital Sensors
 published: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Sensing Movement
+title: Analogue Sensors
 published: true
 ---
 

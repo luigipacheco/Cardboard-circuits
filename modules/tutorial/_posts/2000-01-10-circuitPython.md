@@ -1,5 +1,5 @@
 ---
-title: Visualizing Data
+title: Migrating to CircuitPython
 published: true
 ---
 
