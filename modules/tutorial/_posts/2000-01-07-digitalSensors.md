@@ -1,5 +1,5 @@
 ---
-title: Digital Sensors
+title: 07 Sensors
 published: true
 ---
 
